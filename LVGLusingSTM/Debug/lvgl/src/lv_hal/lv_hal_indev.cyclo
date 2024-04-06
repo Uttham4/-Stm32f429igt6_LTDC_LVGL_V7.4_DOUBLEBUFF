@@ -1,0 +1,5 @@
+../lvgl/src/lv_hal/lv_hal_indev.c:52:6:lv_indev_drv_init	1
+../lvgl/src/lv_hal/lv_hal_indev.c:70:14:lv_indev_drv_register	5
+../lvgl/src/lv_hal/lv_hal_indev.c:105:6:lv_indev_drv_update	1
+../lvgl/src/lv_hal/lv_hal_indev.c:116:14:lv_indev_get_next	2
+../lvgl/src/lv_hal/lv_hal_indev.c:130:6:_lv_indev_read	5

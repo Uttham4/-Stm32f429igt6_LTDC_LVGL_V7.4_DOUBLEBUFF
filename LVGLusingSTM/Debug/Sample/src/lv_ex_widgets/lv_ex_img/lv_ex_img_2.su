@@ -1,0 +1,10 @@
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_hal/../lv_misc/lv_color.h:621:26:lv_color_make	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_core/lv_obj_style_dec.h:123:1:lv_obj_set_style_local_bg_color	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_core/lv_obj_style_dec.h:176:1:lv_obj_set_style_local_image_recolor	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_core/lv_obj_style_dec.h:178:1:lv_obj_set_style_local_image_recolor_opa	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_core/lv_disp.h:153:26:lv_scr_act	8	static
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_widgets/lv_slider.h:83:20:lv_slider_set_value	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/../../../../lvgl/src/lv_widgets/lv_slider.h:105:20:lv_slider_set_range	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/lv_ex_img_2.c:13:6:lv_ex_img_2	16	static
+../Sample/src/lv_ex_widgets/lv_ex_img/lv_ex_img_2.c:24:13:slider_event_cb	32	static
+../Sample/src/lv_ex_widgets/lv_ex_img/lv_ex_img_2.c:35:13:create_sliders	32	static

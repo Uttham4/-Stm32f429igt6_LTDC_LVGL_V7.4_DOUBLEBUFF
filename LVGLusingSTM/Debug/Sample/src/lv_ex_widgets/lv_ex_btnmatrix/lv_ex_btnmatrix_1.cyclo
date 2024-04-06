@@ -1,0 +1,3 @@
+../Sample/src/lv_ex_widgets/lv_ex_btnmatrix/../../../../lvgl/src/lv_core/lv_disp.h:153:26:lv_scr_act	1
+../Sample/src/lv_ex_widgets/lv_ex_btnmatrix/lv_ex_btnmatrix_1.c:5:13:event_handler	2
+../Sample/src/lv_ex_widgets/lv_ex_btnmatrix/lv_ex_btnmatrix_1.c:19:6:lv_ex_btnmatrix_1	1

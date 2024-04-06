@@ -1,0 +1,4 @@
+../Sample/src/lv_ex_widgets/lv_ex_switch/../../../../lvgl/src/lv_core/lv_disp.h:153:26:lv_scr_act	8	static
+../Sample/src/lv_ex_widgets/lv_ex_switch/../../../../lvgl/src/lv_widgets/lv_switch.h:113:20:lv_switch_get_state	24	static
+../Sample/src/lv_ex_widgets/lv_ex_switch/lv_ex_switch_1.c:5:13:event_handler	16	static
+../Sample/src/lv_ex_widgets/lv_ex_switch/lv_ex_switch_1.c:12:6:lv_ex_switch_1	24	static

@@ -1,0 +1,13 @@
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:102:1:lv_style_set_radius	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:110:1:lv_style_set_pad_top	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:111:1:lv_style_set_pad_bottom	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:112:1:lv_style_set_pad_left	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:113:1:lv_style_set_pad_right	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:123:1:lv_style_set_bg_color	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:125:1:lv_style_set_bg_opa	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:126:1:lv_style_set_border_width	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:130:1:lv_style_set_border_color	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:176:1:lv_style_set_image_recolor	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_obj_style_dec.h:178:1:lv_style_set_image_recolor_opa	1
+../Sample/src/lv_ex_style/../../../lvgl/src/lv_core/lv_disp.h:153:26:lv_scr_act	1
+../Sample/src/lv_ex_style/lv_ex_style_9.c:6:6:lv_ex_style_9	1

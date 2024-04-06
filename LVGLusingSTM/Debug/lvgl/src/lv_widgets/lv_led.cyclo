@@ -1,0 +1,9 @@
+../lvgl/src/lv_widgets/../lv_core/../lv_misc/lv_color.h:454:48:lv_color_mix	1
+../lvgl/src/lv_widgets/lv_led.c:54:12:lv_led_create	8
+../lvgl/src/lv_widgets/lv_led.c:108:6:lv_led_set_bright	5
+../lvgl/src/lv_widgets/lv_led.c:129:6:lv_led_on	2
+../lvgl/src/lv_widgets/lv_led.c:140:6:lv_led_off	2
+../lvgl/src/lv_widgets/lv_led.c:151:6:lv_led_toggle	3
+../lvgl/src/lv_widgets/lv_led.c:171:9:lv_led_get_bright	2
+../lvgl/src/lv_widgets/lv_led.c:193:24:lv_led_design	3
+../lvgl/src/lv_widgets/lv_led.c:232:17:lv_led_signal	5
